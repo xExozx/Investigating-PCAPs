@@ -210,7 +210,7 @@ Source: 10.251.96.4
 Destination: 10.251.96.5 (22/80 opened)
 
 
-Applications used by 10.251.96.4
+Applications used by 10.251.96.4.
 
 App 1: Gobuster 3.0.1
 
