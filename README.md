@@ -6,7 +6,6 @@
 Reviewing and investing a suspicious PCAP from the client "BlueTeamLabs.online". Using WireShark and urldecoder to answer the scenario from blue team labs.  
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - PCAP (Packet Capture) investigation.
 - Security Operations Center (SOC) workflows.
@@ -14,7 +13,6 @@ Reviewing and investing a suspicious PCAP from the client "BlueTeamLabs.online".
 - Cyber threat hunting fundamentals.
 - Wireshark navigation and filtering.
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Wireshark.
 - urldecoder.online.
